@@ -1,29 +1,3 @@
-# HW1
-Displaying text
-Write a program that gives the following
-text as an output:
-<img width="675" height="37" alt="image" src="https://github.com/user-attachments/assets/df6e40ff-6da7-4b79-8681-d1f66eea5c07" />
-Example
-<img width="503" height="336" alt="image" src="https://github.com/user-attachments/assets/54f1f91b-0262-471f-9040-a6bc2b941570" />
-
-Today’s homework
-Very important
-1. You can use any editor to write your program, but the program must be able to compile and run on the specified requirement (see next slide for detail). Please test it before submission.
-2. If the program cannot compile, it will be scored as 0, regardless of any other reasons (program can be compiled on your own PC, etc.).
-
-Turning in Homework
-Homework naming
-HomeworkID.c
-Ex. hw3-1.c
-(You can find HomeworkID from the top right corner of the homework slides.)
-
-Testing
- Two test cases will be released for each homework
- Make sure that your output matches the test case answers
-completely
-◼ Same spacing, same capitalization, same line breaks (\n), etc.
-<img width="778" height="95" alt="image" src="https://github.com/user-attachments/assets/ad0afa8c-98ec-4d13-bc72-cd38272780c9" />
-
 # HW1 — Displaying Text
 
 ## Objective
