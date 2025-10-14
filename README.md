@@ -59,5 +59,4 @@ hw3-1.c
 
 ---
 
-**Tip:**  
-Before submission, copy and paste your program’s output into a text comparison tool to ensure it perfectly matches the test case output.
+
